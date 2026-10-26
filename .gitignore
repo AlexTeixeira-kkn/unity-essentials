@@ -1,0 +1,58 @@
+# ---- Unity generated folders ----
+# No leading slash, so these match inside every project subfolder
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Bb]uild/
+[Bb]uilds/
+
+# Unity plugin / tooling caches
+**/Assets/AssetStoreTools*
+**/Assets/Plugins/Editor/JetBrains*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# ---- Web builds ----
+# Build output, not source. Delete this line if you want builds in the repo.
+WebBuild*/
+Web Build 1.1/
+
+# ---- Archives / backups ----
+# Packages.zip is about 130 MB, over GitHub's 100 MB per-file limit
+*.zip
+*.unitypackage
+
+# ---- IDE files ----
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.csproj.user
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+Desktop.ini
